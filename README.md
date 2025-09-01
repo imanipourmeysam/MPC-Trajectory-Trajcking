@@ -1,7 +1,8 @@
 # MPC-Trajectory-Trajcking
 Using Model Predictive Controller for trajectory trakcing task - An interactive simulation.
-## Demo 1
-<video width="480" controls>
-  <source src="https://github.com/imanipourmeysam/MPC-Trajectory-Trajcking/raw/main/MPC_Demo_1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<h2> Demo 1 </h2>
+
+<video src="https://github.com/user-attachments/assets/da606c75-c51e-4947-b4a9-37cc59b40f36" width="400" controls></video>
+
+
+
